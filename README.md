@@ -20,6 +20,8 @@ Skills: Java,
 
 GitHub stats
 
-GitHub Activity Graph
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunkudiyal&show_icons=true)  
 
-GitHub streak stats
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anmol8604)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anmol8604) 
