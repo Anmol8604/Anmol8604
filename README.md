@@ -6,19 +6,7 @@ Skills: Java,
 😄 Pronouns: He/Him/His
  linkedin instagram apple
 
-
-  
-    
-
-
-  
-    
-
-
-
-    
-
-GitHub stats
+Github stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunkudiyal&show_icons=true)  
 
